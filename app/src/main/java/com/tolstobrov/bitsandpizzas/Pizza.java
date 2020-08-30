@@ -4,7 +4,8 @@ class Pizza {
     private String name;
     private int imageResourceId;
     private int u;
-
+    private String test;
+    private String test2;
 
 
     public static final Pizza[] pizzas = {
