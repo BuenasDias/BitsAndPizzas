@@ -3,6 +3,7 @@ package com.tolstobrov.bitsandpizzas;
 class Pizza {
     private String name;
     private int imageResourceId;
+    private String name1;
 
     public static final Pizza[] pizzas = {
             new Pizza("Diavolo", R.drawable.diavolo),
